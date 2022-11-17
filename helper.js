@@ -8,8 +8,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=zelenka.guru
 // @grant        none
 
-// @updateURL    https://raw.githubusercontent.com/waslost0/lolzteam_autoLotteryDrawing/master/auto_drawing.js
-// @downloadURL  https://raw.githubusercontent.com/waslost0/lolzteam_autoLotteryDrawing/master/auto_drawing.js
+// @updateURL    https://raw.githubusercontent.com/emilyrudd122/test/main/helper.js
+// @downloadURL  https://raw.githubusercontent.com/emilyrudd122/test/main/helper.js
 // ==/UserScript==
 
 function waitForElm(selector) {
@@ -32,7 +32,7 @@ function waitForElm(selector) {
     });
 }
 
-
+console.log("qweqwe")
 
 
 waitForElm('.marketIndexItem').then((elm) => {
