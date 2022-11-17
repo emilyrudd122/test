@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Parse_market_helper
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.1.1
 // @description  try to take over the world!
 // @author       You
 // @match        https://zelenka.guru/market/*
